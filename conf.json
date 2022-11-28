@@ -1,0 +1,12 @@
+{
+    "ami-prod":[
+        {"ami":"ami-097a2df4ac947655f"},
+        {"ami":"ami-0beaa649c482330f7"},
+        {"ami":"ami-0185a6f76b69a1870"}
+    ],
+    "ami-uat":[
+        {"ami":"ami-0beaa649c482330f7"},
+        {"ami":"ami-0185a6f76b69a1870"}
+    ],
+    "target-group":[{"tg":"react-tg"}]
+}
